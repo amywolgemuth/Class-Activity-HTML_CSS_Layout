@@ -1,0 +1,28 @@
+.synopsis{
+    color: #7E8184; /*light gray*/
+    font-style: italic;
+}
+.synopsis em {
+    font-style: normal;
+}
+
+.button{
+    color: #fff;
+    background-color: #5995DA;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #5D6063;
+    border-radius: 5px;
+    width: 200px;
+    margin: 20px auto;
+}
+.call-to-action{
+    font-style: italic;
+    background-color: #EEB75A; /*yellow*/
+}
+
+.page{
+    width: 600px;
+    margin: 0 auto;
+}
